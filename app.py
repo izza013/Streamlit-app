@@ -17,8 +17,7 @@ from sklearn.tree import DecisionTreeClassifier
 
 st.title('PREDICTION APP')
 st.markdown('This app will provide Data Visualization and Analysis')
-image = Image.open('/n.png')
-st.image(image, caption='ML', use_column_width=True)
+
 
 option = st.sidebar.selectbox('Choose', ('EDA', 'Data Visualization', 'Model', 'About Us'))
 
