@@ -3,3 +3,6 @@ matplotlib
 pandas
 streamlit
 scipy
+sklearn
+seaborn
+PIL
