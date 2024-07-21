@@ -3,5 +3,7 @@ matplotlib
 pandas
 streamlit
 scipy
-sklearn.model_selection
+scikit-learn
+Pillow
+
 
