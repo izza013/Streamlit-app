@@ -3,3 +3,5 @@ matplotlib
 pandas
 streamlit
 scipy
+sklearn.model_selection
+
